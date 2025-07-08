@@ -1,8 +1,8 @@
-package mini_project1;
+package project;
 
 import java.util.Scanner;
 
-public class project1 {
+public class mini1 {
     public static void main(String[] args) {
 
         int[] empNo = {1001, 1002, 1003, 1004, 1005, 1006, 1007};
